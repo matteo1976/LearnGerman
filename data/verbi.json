@@ -1,0 +1,57 @@
+{
+"lezione1":{
+    "verbo1":{
+        "verboIt":"Essere",
+        "verboDe":"Sain",
+        "regolare":false,
+        "presente":{
+            "ich":"bin",
+            "du":"bist",
+            "er_sie_es":"ist",
+            "wir":"sind",
+            "ihr":"seid",
+            "sie_Sie":"sind"
+            }
+        },
+    "verbo2":{
+        "verboIt":"chiamare",
+        "verboDe":"heissen",
+        "regolare":true,
+        "presente":{
+            "ich":"heisse",
+            "du":"heisst",
+            "er_sie_es":"heisst",
+            "wir":"heissen",
+            "ihr":"heisst",
+            "sie_Sie":"heissen"
+            }
+        },
+    "verbo3":{
+        "verboIt":"venire",
+        "verboDe":"kommen",
+        "regolare":true,
+        "presente":{
+            "ich":"komme",
+            "du":"kommst",
+            "er_sie_es":"kommt",
+            "wir":"kommen",
+            "ihr":"kommt",
+            "sie_Sie":"kommen"
+            }
+        },
+    "verbo4":{
+        "verboIt":"sentire",
+        "verboDe":"Hören",
+        "regolare":true,
+        "presente":{
+            "ich":"höre",
+            "du":"hörst",
+            "er_sie_es":"hört",
+            "wir":"hören",
+            "ihr":"hört",
+            "sie_Sie":"hören"
+            }
+        }   
+    }
+}
+
